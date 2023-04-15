@@ -1,3 +1,1 @@
-covdefaults
-coverage
-pytest
+covdefaults coverage pytest
