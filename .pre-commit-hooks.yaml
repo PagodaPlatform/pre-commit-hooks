@@ -208,5 +208,5 @@
   name: yamlfmt
   description: This hook uses github.com/google/yamlfmt to format yaml files. Requires ymlfmt to be installed
   entry: yamlfmt
-  language: script
+  language: system
   types: [yaml]
