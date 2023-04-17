@@ -210,3 +210,9 @@
   entry: yamlfmt
   language: system
   types: [yaml]
+- id: black
+  name: black
+  description: "Black: The uncompromising Python code formatter"
+  entry: black
+  language: system
+  types_or: [python, pyi]
